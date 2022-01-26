@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"<Unnamed>","c":"Log","l":"filePath"},{"p":"<Unnamed>","c":"Log","l":"Log(String)","u":"%3Cinit%3E(java.lang.String)"},{"p":"<Unnamed>","c":"Log","l":"Logchange(String, String, String)","u":"Logchange(java.lang.String,java.lang.String,java.lang.String)"}];updateSearchResults();
